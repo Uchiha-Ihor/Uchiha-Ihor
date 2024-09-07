@@ -6,7 +6,7 @@ About me
 
 I am a junior C# .NET developer and a student, with 1 year of experience working with C#. I have worked on two projects in C#: Mobile Game "Battleship" – A multiplayer mobile game developed using Xamarin. MVV Configurator – A program that connects to a device via COM port, allowing configuration of a controller based on STM32, as well as monitoring its performance. I also have 1 year of experience working with C++ on Linux, where I completed two projects: DNP3 TCP Master DNP3 COM Master These are protocols used in the energy sector for data transmission. The protocols were developed for a controller based on ICOP. Additionally, I occasionally complete academic projects for university students.
 
-* 🌍  I'm based in Украина
+* 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [ihorychiha@gmail.com](mailto:ihorychiha@gmail.com)
 
 ### Skills
